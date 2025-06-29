@@ -1,0 +1,5 @@
+Server:Client List:
+
+Server:mehmet has joined the group.
+mehmet:merhaba
+exit

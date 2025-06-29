@@ -1,0 +1,4 @@
+Server:
+Kullanıcı Listesi:
+
+Server:Client2 gruba katıldı.

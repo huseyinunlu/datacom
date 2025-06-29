@@ -1,0 +1,7 @@
+Server->
+Kullanıcı Listesi:
+
+Server->mehmet gruba katıldı.
+Hata Bozuk Mesaj Alındı
+Hata Bozuk Mesaj Alındı
+mehmet->asldasd

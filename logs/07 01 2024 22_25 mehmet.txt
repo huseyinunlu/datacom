@@ -1,0 +1,5 @@
+Server:Client List:
+0- ahmet
+
+ahmet->merhabalar
+exit

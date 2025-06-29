@@ -1,3 +1,0 @@
-/home/levrek/CLionProjects/datacom/cmake-build-debug/CMakeFiles/datacom.dir
-/home/levrek/CLionProjects/datacom/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/levrek/CLionProjects/datacom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

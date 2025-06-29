@@ -1,0 +1,6 @@
+Server:
+Kullanıcı Listesi:
+
+Server:mehmet gruba katıldı.
+mehmet:merhaba
+mehmet:merhaba

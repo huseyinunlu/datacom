@@ -1,0 +1,5 @@
+Server:
+Kullanıcı Listesi:
+
+Server:ahmet gruba katıldı.
+Hata Bozuk Mesaj Alındı

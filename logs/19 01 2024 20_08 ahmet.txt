@@ -1,0 +1,10 @@
+Server->
+Kullanıcı Listesi:
+
+Server->mehmet gruba katıldı.
+mehmet->merhaba
+ahmet:merhaba
+Hata Bozuk Mesaj Alındı
+mehmet:merhaba
+mehmet:meraasda
+ahmet:asdlasd
